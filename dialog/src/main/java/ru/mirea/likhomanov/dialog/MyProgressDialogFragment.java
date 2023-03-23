@@ -60,19 +60,4 @@ public class MyProgressDialogFragment {
             }
         }
     }
-
-    public static  boolean isDialogVisible(){
-        if(dialog != null){
-            return dialog.isShowing();
-        }else {
-            return false;
-        }
-    }
-
-    public static  void dismissDialog(){
-        if(dialog != null){
-            dialog.dismiss();
-            dialog = null;
-        }
-    }
 }

@@ -17,6 +17,7 @@
             <option value="$PROJECT_DIR$/intentfilter2" />
             <option value="$PROJECT_DIR$/intentfilters" />
             <option value="$PROJECT_DIR$/notificationapp" />
+            <option value="$PROJECT_DIR$/toastapp" />
           </set>
         </option>
       </GradleProjectSettings>
